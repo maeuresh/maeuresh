@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mayuresh</h1>
-<h3 align="center">A budding and passionate Data Scientist</h3>
+<h3 align="center">A passionate Data Scientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maeuresh&label=Profile%20views&color=0e75b6&style=flat" alt="maeuresh" /> </p>
 
@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/maeuresh" target="blank"><img src="https://img.shields.io/twitter/follow/maeuresh?logo=twitter&style=for-the-badge" alt="maeuresh" /></a> </p>
 
-- 🔭 I’m currently working on **getting my Master's in Data Science**
+- 🔭 I’m currently working on **contributing to the in the progress of Machine Learning**
 
-- 🌱 I’m currently learning **Machine Learning and A.I**
+- 🌱 I’m currently learning **everything. As the saying goes "There's no end to learning"**
 
-- 👯 I’m looking to collaborate on **Data Science related projects**
+- 👯 I’m looking to collaborate on **DS, AI and ML related projects**
 
-- 🤝 I’m looking for help with **Python and Hadoop**
+- 🤝 I’m looking for help with **achieving my goals**
 
 - 💬 Ask me about **Machine Learning and A.I. related stuff**
 
